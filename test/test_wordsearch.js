@@ -1,3 +1,5 @@
+// Pair Programmed with Saam Koukpari
+
 const chai = require('chai');
 const assert = chai.assert;
 

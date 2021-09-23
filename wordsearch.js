@@ -1,4 +1,4 @@
-//
+// Pair Programmed with Saam Koukpari
 
 const transpose = (letters) => {
   let transposed = [];
